@@ -17,7 +17,7 @@ Features
 The fastest way to get started. Just add this script tag to your HTML <body>.
 
 ```html
-<script src="https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/gatewire-js@main/gatewire.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/md-lotfi/gatewire-js@main/gatewire.js"></script>
 ```
 
 ### Option 2: Direct Download
@@ -46,7 +46,7 @@ const GateWire = require('./gatewire.js');
 <body>
     <button onclick="sendSMS()">Send Test SMS</button>
 
-    <script src="https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/gatewire-js@main/gatewire.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/md-lotfi/gatewire-js@main/gatewire.js"></script>
 
     <script>
         // Initialize
