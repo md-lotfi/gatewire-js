@@ -1,0 +1,20 @@
+{
+    "name": "gatewire-js",
+    "version": "1.0.0",
+    "description": "Universal JavaScript SDK for GateWire SMS.",
+    "main": "src/index.js",
+    "type": "module",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "sms",
+        "gatewire",
+        "javascript"
+    ],
+    "author": "GateWire Team",
+    "license": "MIT",
+    "dependencies": {
+        "axios": "^1.13.5"
+    }
+}
